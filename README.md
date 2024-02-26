@@ -17,3 +17,7 @@ Effortlessly connected with the Spotify API to harvest and scrutinize music data
 3. AWS S3
 4. Apache Spark
 5. Snowflake
+
+Architecture
+
+![image](https://github.com/aravinddudam/Automated-Spotify-Data-Analysis-Pipeline/assets/122600985/d044e72b-0e0f-4ca0-9107-48b2f726e950)
