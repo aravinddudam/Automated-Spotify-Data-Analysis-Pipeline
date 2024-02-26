@@ -12,8 +12,8 @@ Effortlessly connected with the Spotify API to harvest and scrutinize music data
 
 
 ## Technology Stack
-# Python
-# AWS Lambda
-# AWS S3
-# Apache Spark
-# Snowflake
+1. Python
+2. AWS Lambda
+3. AWS S3
+4. Apache Spark
+5. Snowflake
